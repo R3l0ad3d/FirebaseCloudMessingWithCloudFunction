@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939897479185",
+    "firebase_url": "https://cloudfunction-ace71.firebaseio.com",
+    "project_id": "cloudfunction-ace71",
+    "storage_bucket": "cloudfunction-ace71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939897479185:android:72fdbfdc6db2f7da",
+        "android_client_info": {
+          "package_name": "net.atshq.firebasecloudmessagewithcloudfunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939897479185-l3f04kp1bmikvsvk0gcu9jsdta7bse63.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "939897479185-l3f04kp1bmikvsvk0gcu9jsdta7bse63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgpzQYEm6Tp878FS-r4vWUuwS83qmg0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
